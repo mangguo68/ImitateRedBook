@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+.el-popper {
+  border-radius: 14px !important;
+  overflow: hidden;
+}
+
+:root {
+  --login-primary-color: #FF2442;
+  --login-primary-gradient: linear-gradient(135deg, #FF2442 0%, #FF6B6B 100%);
+  --login-primary-hover: #e0203a;
+  --login-border-radius: 16px;
+  --login-input-radius: 12px;
+  --login-btn-radius: 12px;
+  --login-border-color: #e0e0e0;
+  --login-bg-hover: #e0e0e0;
+  --login-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --login-btn-shadow: 0 8px 20px rgba(255, 36, 66, 0.3);
+  --login-focus-shadow: 0 0 0 3px rgba(255, 36, 66, 0.1);
+  --text-primary: #333;
+  --text-secondary: #666;
+  --text-tertiary: #999;
+}

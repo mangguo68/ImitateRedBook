@@ -1,0 +1,12 @@
+// Element Plus 主题配置
+// 使用官方推荐的方式覆盖默认变量
+@forward 'element-plus/theme-chalk/src/common/var.scss' with (
+  $colors: (
+    'primary': (
+      'base': #ff4757, // 红色
+    )
+  )
+);
+
+// 导入 Element Plus 的 SCSS 样式
+@use 'element-plus/theme-chalk/src/index.scss';
