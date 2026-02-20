@@ -2,6 +2,13 @@
 
 > 一个功能完整、界面美观、技术先进的仿小红书 Web 应用，专为 PC 端设计。
 
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/f2dfed78-775b-406e-8844-e0e6119977ce" />
+
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/a49d74e7-75cc-46df-8d55-982ea69f63fe" />
+
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/99794b82-2866-4f96-b131-e39ed6988254" />
+
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/54fa5b49-7e06-4591-9083-d59ac2532d4c" />
 
 ## 🔧 技术栈
 
