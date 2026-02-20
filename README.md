@@ -4,15 +4,10 @@
 
 <img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/f2dfed78-775b-406e-8844-e0e6119977ce" />
 
-<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/a49d74e7-75cc-46df-8d55-982ea69f63fe" />
 
-<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/99794b82-2866-4f96-b131-e39ed6988254" />
 
-<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/54fa5b49-7e06-4591-9083-d59ac2532d4c" />
 
-<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/261179a2-777f-4dcf-b669-1e4a78a4dfa5" />
 
-<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/79b5f854-5f76-4c01-93db-b5aac2cc2779" />
 
 ## 🔧 技术栈
 
@@ -43,11 +38,11 @@
 #### 注册与登录
 - 用户注册 & 登录（JWT 认证）
 - 密码安全存储与验证
-
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/99794b82-2866-4f96-b131-e39ed6988254" />
 #### 个人主页
 - 展示头像、昵称、红书号（用户 ID）、IP 属地等基本信息
 - 动态概览：发布的笔记、获赞数、收藏数、关注数、粉丝数等
-
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/54fa5b49-7e06-4591-9083-d59ac2532d4c" />
 #### 个人信息维护（个人中心）
 - 可编辑字段：
   - 头像、昵称、简介
@@ -78,6 +73,7 @@
   - 图片大图预览（支持多图）
   - 点赞 / 收藏 / 分享 / 关注作者
   - 点击用户头像跳转其个人主页
+<img width="2256" height="1284" alt="image" src="https://github.com/user-attachments/assets/a49d74e7-75cc-46df-8d55-982ea69f63fe" />
 
 #### 发布动态
 - 支持上传多张图片
